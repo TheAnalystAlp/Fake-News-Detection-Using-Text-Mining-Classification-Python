@@ -72,14 +72,14 @@ By detecting fake news and comments, we may even address real-world business pro
 * Supports Media Verification: Assists 	**journalists** and fact-checkers by pre-screening political statements for quicker and more accurate verification.
 * Streamlines Customer Support: Identifies fraudulent or irrelevant queries early, optimizing 	**ticket handling processes** and ensuring regulatory compliance.
 
-
-#### Feel free to reach me at;** Linkedin:www.linkedin.com/in/alp-tuna
-
-#### My Website:** https://alptheanalyst.wixsite.com/alptuna
-
-#### My E-Mail:** alptuna.professional@gmail.com
-
 **Link for the Colab file:** https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
+
+#### Feel free to reach me at: Linkedin:www.linkedin.com/in/alp-tuna
+
+#### My Website: https://alptheanalyst.wixsite.com/alptuna
+
+#### My E-Mail: alptuna.professional@gmail.com
+
 
 **Credits:** Special thanks to Kunwar Madan (DBS – Senior Lecturer in Computing) for the introduction of this subject.
 
