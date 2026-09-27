@@ -73,11 +73,11 @@ By detecting fake news and comments, we may even address real-world business pro
 * Streamlines Customer Support: Identifies fraudulent or irrelevant queries early, optimizing 	**ticket handling processes** and ensuring regulatory compliance.
 
 
-**Feel free to reach me at;** Linkedin:www.linkedin.com/in/alp-tuna
+#### Feel free to reach me at;** Linkedin:www.linkedin.com/in/alp-tuna
 
-**My Website:** https://alptheanalyst.wixsite.com/alptuna
+#### My Website:** https://alptheanalyst.wixsite.com/alptuna
 
-**My E-Mail:** alptuna.professional@gmail.com
+#### My E-Mail:** alptuna.professional@gmail.com
 
 **Link for the Colab file:** https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 
